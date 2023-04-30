@@ -1,0 +1,19 @@
+2023-04-28 00:04:95 INFO  HomePage :42 - I verify logo is present or not : [[ChromeDriver: chrome on WINDOWS (82b0268ac14d640744e14dba78c606ca)] -> xpath: //wow-image[@id='img_comp-lby03fgh']]
+2023-04-28 00:04:258 INFO  HomePage :53 - Mouse hover on solution tab[[ChromeDriver: chrome on WINDOWS (82b0268ac14d640744e14dba78c606ca)] -> xpath: //ul[@class='StylableHorizontalMenu3372578893__menu']/child::li[1]/child::div[1]/descendant::span[1]]
+2023-04-28 00:04:742 INFO  HomePage :59 - Mouse hover and click on Task & Checklist tab[[ChromeDriver: chrome on WINDOWS (82b0268ac14d640744e14dba78c606ca)] -> xpath: //span[text()='TASKS & CHECKLISTS']]
+2023-04-28 00:04:528 INFO  HomePage :64 - I verify page titleGRC Management Software | Ruleguard
+2023-04-28 00:04:298 INFO  HomePage :42 - I verify logo is present or not : [[ChromeDriver: chrome on WINDOWS (75962739392400c4d985f9105e5837f0)] -> xpath: //wow-image[@id='img_comp-lby03fgh']]
+2023-04-28 00:04:682 INFO  HomePage :53 - Mouse hover on solution tab[[ChromeDriver: chrome on WINDOWS (75962739392400c4d985f9105e5837f0)] -> xpath: //ul[@class='StylableHorizontalMenu3372578893__menu']/child::li[1]/child::div[1]/descendant::span[1]]
+2023-04-28 00:04:447 INFO  HomePage :59 - Mouse hover and click on Task & Checklist tab[[ChromeDriver: chrome on WINDOWS (75962739392400c4d985f9105e5837f0)] -> xpath: //span[text()='TASKS & CHECKLISTS']]
+2023-04-28 00:04:831 INFO  HomePage :64 - I verify page titleGRC Management Software | Ruleguard
+2023-04-28 00:04:858 INFO  HomePage :42 - I verify logo is present or not : [[ChromeDriver: chrome on WINDOWS (14c98caec2da7531b5efab8e40f8be2f)] -> xpath: //wow-image[@id='img_comp-lby03fgh']]
+2023-04-28 00:04:122 INFO  HomePage :53 - Mouse hover on solution tab[[ChromeDriver: chrome on WINDOWS (14c98caec2da7531b5efab8e40f8be2f)] -> xpath: //ul[@class='StylableHorizontalMenu3372578893__menu']/child::li[1]/child::div[1]/descendant::span[1]]
+2023-04-28 00:04:334 INFO  HomePage :59 - Mouse hover and click on Task & Checklist tab[[ChromeDriver: chrome on WINDOWS (14c98caec2da7531b5efab8e40f8be2f)] -> xpath: //span[text()='TASKS & CHECKLISTS']]
+2023-04-28 00:04:659 INFO  HomePage :42 - I verify logo is present or not : [[ChromeDriver: chrome on WINDOWS (699d1a05800ede89fee076ced7e6ce5f)] -> xpath: //wow-image[@id='img_comp-lby03fgh']]
+2023-04-28 00:04:346 INFO  HomePage :53 - Mouse hover on solution tab[[ChromeDriver: chrome on WINDOWS (699d1a05800ede89fee076ced7e6ce5f)] -> xpath: //ul[@class='StylableHorizontalMenu3372578893__menu']/child::li[1]/child::div[1]/descendant::span[1]]
+2023-04-28 00:04:645 INFO  HomePage :59 - Mouse hover and click on Task & Checklist tab[[ChromeDriver: chrome on WINDOWS (699d1a05800ede89fee076ced7e6ce5f)] -> xpath: //span[text()='TASKS & CHECKLISTS']]
+2023-04-28 00:04:439 INFO  HomePage :65 - I verify page titleGRC Management Software | Ruleguard
+2023-04-30 14:04:424 INFO  HomePage :42 - I verify logo is present or not : [[ChromeDriver: chrome on WINDOWS (b565ac9b17099fc12ce6ff61145a78a1)] -> xpath: //wow-image[@id='img_comp-lby03fgh']]
+2023-04-30 14:04:586 INFO  HomePage :53 - Mouse hover on solution tab[[ChromeDriver: chrome on WINDOWS (b565ac9b17099fc12ce6ff61145a78a1)] -> xpath: //ul[@class='StylableHorizontalMenu3372578893__menu']/child::li[1]/child::div[1]/descendant::span[1]]
+2023-04-30 14:04:786 INFO  HomePage :59 - Mouse hover and click on Task & Checklist tab[[ChromeDriver: chrome on WINDOWS (b565ac9b17099fc12ce6ff61145a78a1)] -> xpath: //span[text()='TASKS & CHECKLISTS']]
+2023-04-30 14:04:986 INFO  HomePage :65 - I verify page titleGRC Management Software | Ruleguard

@@ -1,0 +1,110 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6099699300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "As a user I am chekcing home page",
+        "description": "",
+        "id": "ruleguard-demo;as-a-user-i-am-chekcing-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 833009100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 179661800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 327533300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I verify logo is present or not",
+            "match": {
+              "location": "MyStepdefs.iVerifyLogoIsPresentOrNot()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 212749700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I hover mouse on Solutions tab",
+            "match": {
+              "location": "MyStepdefs.iHoverMouseOnSolutionsTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3203516800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I hover and click on TASKS \u0026 CHECKLISTS",
+            "match": {
+              "location": "MyStepdefs.iClickOnTASKSCHECKLISTS()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 32820100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify the tile of the page \"GRC Management Software | Ruleguard\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "GRC Management Software | Ruleguard",
+                  "offset": 31
+                }
+              ],
+              "location": "MyStepdefs.iVerifyTheTileOfThePage(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Ruleguard demo",
+    "description": "As a candidate I am showing interviewer my framework",
+    "id": "ruleguard-demo",
+    "keyword": "Feature",
+    "uri": "HomePage.feature"
+  }
+]
